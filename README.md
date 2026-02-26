@@ -1,6 +1,6 @@
 # 🎓 Student Management System 🌐💻
 
-![](https://images.unsplash.com/photo-1523050854058-8df90110c9f1)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Finceptor.co.ke%2Fschool-management-software-trends%2F&psig=AOvVaw0NwFA95aVRH5B5c3VZJA9E&ust=1772174672194000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjZmZbH9pIDFQAAAAAdAAAAABBW)
 
 A **Full Stack Web Application** built using **Java Spring Boot, MySQL, HTML, CSS, and JavaScript**.  
 This project demonstrates **REST API development, database integration, and frontend-backend communication** in a real-world CRUD application.
